@@ -1,0 +1,12 @@
+{
+  "name": "combine-reducers-immutable",
+  "version": "1.0.0",
+  "description": "Redux's combineReducers adjusted to support ImmutableJS state. Edit",
+  "main": "index.js",
+  "repository": "git@github.com:montanonic/combineReducers-immutable.git",
+  "author": "Nicholas Montaño <montanonic@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "immutable": "^3.8.1"
+  }
+}
